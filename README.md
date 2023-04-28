@@ -1,4 +1,4 @@
-<h1>Cement Strength Prediction</h1>
+<h1>Concrete  Strength Prediction</h1>
 <p>This repository contains an example dataset and Python code for predicting cement strength using several features such as cement, blast furnace slag, fly ash, water, super-plasticizer, coarse aggregate, fine aggregate, and age.</p>
 <h2>Dataset</h2>
 <p>The dataset used in this project is included in the <code>cement_strength_dataset.csv</code> file. It contains 1030 samples with 8 features each and the target set is the strength of the cement. This dataset can be used as a benchmark for those who are new to deep learning.</p>
