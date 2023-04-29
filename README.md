@@ -72,6 +72,6 @@
 </tbody>
 </table>
 </div>
-<p>،his will load the saved model from the <code>cement_strength_model.h5</code> file, make a prediction on a new sample, and print the predicted strength to the console.</p>
+<p>This will load the saved model from the <code>cement_strength_model.h5</code> file, make a prediction on a new sample, and print the predicted strength to the console.</p>
 <h2>Acknowledgements</h2>
 <p>This dataset was sourced from the Kaggle Website (Pratham Tripathi)</p>
